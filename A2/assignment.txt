@@ -1,1 +1,1 @@
-Building upon the previous assignment, here we will use Bootstrap to structure our HTML page.
+Building upon the previous assignment, here we will use Bootstrap to structure our HTML page. 
