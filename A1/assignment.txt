@@ -1,0 +1,3 @@
+Create a fake sports team's web page.
+
+Idea of the project is to get used to using a variety of HTML elements, as well as CSS.
